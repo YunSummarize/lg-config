@@ -2,7 +2,7 @@
 
 lg:
   username: lg
-  verifyMailSleep: 0
+  verifyMailSleep: 10000
   maxIpCount: 100
 spring:
   datasource:
