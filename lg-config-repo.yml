@@ -1,7 +1,7 @@
 
 
 lg:
-  username: lg
+  username: lg-01
   verifyMailSleep: 1
   maxIpCount: 100
 spring:
